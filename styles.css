@@ -1,0 +1,107 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+header {
+    width: 100%;
+    background: white;
+}
+h1{
+    text-align: center;
+    padding-top: 0%;
+}
+.cabeza1 {
+    display: flex;
+    width: 100%;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;   
+}
+.cabeza2 {
+display: flex;
+    width: 100%;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;
+}
+.cabeza3 {
+    display: flex;
+    width: 100%;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;
+}
+.cabeza4 {
+    display: flex;
+    width: 100%;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;
+}
+.post1 {
+    width: 300px;
+    background: white;
+    margin: auto;
+    padding: 33%, 0, 33%, 0;
+}
+.post2 {
+    width: 300px;
+    background: white;
+    margin: auto;
+    padding: 33%, 0, 33%, 0;
+}.post3 {
+    width: 300px;
+    background: white;
+    margin: auto;
+    padding: 33%, 0, 33%, 0;
+}
+.post4 {
+    width: 300px;
+    background: white;
+    margin: auto;
+    padding: 33%, 0, 33%, 0;
+}
+.fecha1 {
+    padding-right: 5px;
+    color: gray;
+}
+.nombre1 {
+    padding-left: 5px;
+}
+.fecha2 {
+    padding-right: 5px;
+    color: gray;
+}
+.nombre2 {
+    padding-left: 5px;
+}
+.fecha3 {
+    padding-right: 5px;
+    color: gray;
+}
+.nombre3 {
+    padding-left: 5px;
+}
+.fecha4 {
+    padding-right: 5px;
+    color: gray;
+}
+.nombre4 {
+    padding-left: 5px;
+}
+.pie1 {
+    padding: 5px 5px 5px 5px;
+}
+.pie2 {
+    padding: 5px 5px 5px 5px;
+}
+.pie3 {
+    padding: 5px 5px 5px 5px;
+}
+.pie4 {
+    padding: 5px 5px 5px 5px;
+}
+.feed {
+    background: rgb(190, 189, 189);
+}
